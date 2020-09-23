@@ -1,0 +1,74 @@
+#+title: online learning library basic thinking
+#+name: liangzid
+
+* namespace: OpenOnlineLearning
+
+** DataStream
+
+*** data_unodered_perturn
+**** attribute
+***** ith_feature
+***** ith_label
+**** method
+***** add_numofturn_2_odered
+
+*** data_perturn
+**** attribute
+***** ith_feature
+***** ith_label
+***** i
+**** method
+***** to_unordered
+
+*** StreammingData::SD
+**** attribute
+***** input_stream  ???这里还没有想清楚
+***** features_before
+***** data_perturn
+**** method
+***** read_from_batch_dat
+***** read_from_batch_file
+***** read_from_stream_file
+
+***** get_data_perturn
+***** get_this_i
+***** get_this_feature
+***** get_this_label
+***** get_features_before
+
+
+*** DSutils ::一些基本的方法
+**** batch2stream
+**** stream2batch
+**** save_as_stream_file
+**** read_from_stream_file
+
+
+** OnlineLearning :: method
+
+*** OnlineKernelLearning ::OKL
+
+*** OnlineLearningNN ::OLNN
+
+*** NeuralPatternSearch ::NPS
+
+*** 没想好 ::corporate with PYTHON
+
+
+** loss_func enum
+
+
+* namespace: OnlineOPtimization
+
+** OnlineOptimization ::BasicOnlineOptimizationMethod
+*** OnlineGradientDescent ::OGD
+*** OnlineS??GradientDescent ::OSGD
+*** ForwardBackwardSplitting ::FOBOS
+*** Regularized Dual Averaging Algorithm ::RDA
+*** FollowTheLeader ::FTL
+*** FollowTheRegularizedLeader ::FTRL
+
+
+
+** opti_method enum
+枚举方法本质上是提供一种遍历，即将所有的名称都展现出来。

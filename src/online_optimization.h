@@ -8,23 +8,24 @@ And I Want to Design it with fast and easy useage.
 
 */
 
+//包含了所有基本算法的命名空间
 namespace OpenOnlineLearning
 {
+  //定义数据流的基本格式
     class BasicDataStream
     {
         BasicDataStream();
         ~BasicDataStream();
     };
 
+  //定义几种典型的,可供使用的损失函数
     enum loss_func
     {
         design_myself,cross_entropy,somethingothers
     };
-    enum opti_methd
-    {
-        OGD,FTRL
-    };
 
+
+  //定义online learning算法的基类
     class BasicOnlineLearning
     {
         public:
@@ -41,7 +42,7 @@ namespace OpenOnlineLearning
 
 
 
-
+//定义关于模型优化的基本的优化类
 namespace OnlineOptimization
 {
 
@@ -56,6 +57,7 @@ namespace OnlineOptimization
     };
     
 
+  //定义在线梯度下降算法
     class Online_gradient_descent:OnlineOptimization::Basic_online_optimization_method
     {
         private:
@@ -64,18 +66,13 @@ namespace OnlineOptimization
         Online_gradient_descent(float & learning_rate,);
         ~Online_gradient_descent();
 
-
-
-
-
     };
 
-
-
-
-
-
-
+    //定义几种基本的模型优化方法
+    enum opti_methd
+    {
+        OGD,FTRL
+    };
 
 
 
