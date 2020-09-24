@@ -17,7 +17,7 @@ And I Want to Design it with fast and easy useage.
 namespace MyDataStream{
 
   //不带索引的流数据对象中的每一轮
-  template data_unordered_perturn<int dim>
+  class data_unordered_perturn
   {
   public:
     data_unordered_perturn();
@@ -28,7 +28,7 @@ namespace MyDataStream{
     unint get_ith_label();
   private:
     vector<float> ith_feature;
-    float ith_feature_test[dim];//仅仅作为测试,不保证最终可以这样用 
+    // float ith_feature_test[dim];//仅仅作为测试,不保证最终可以这样用 
     uint ith_label;
   };
 
@@ -100,26 +100,13 @@ namespace MyDataStream{
     BatchData & read_from_stream_file(const string path);
     BatchData & read_from_batch_file(const string path);
     
-
-
-
-
-
-    
-    
   };
-
-
-
-
-
-
-
-
   
 };
 
-
+/********************************************************************
+                       在线学习算法命名空间的封装
+ ********************************************************************/
 
 //包含了所有基本算法的命名空间
 namespace OpenOnlineLearning
@@ -147,9 +134,6 @@ namespace OpenOnlineLearning
         BasicOnlineLearning(const BasicDataStream& stream_data, const std::string loss_func, const std::string opti_methd);
         
     };
-
-
-
 
 };
 
