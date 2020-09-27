@@ -1,0 +1,1585 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: g++ -std=c++11 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: g++ -std=c++11 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: g++ -std=c++11 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: g++ -std=c++11 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: g++ -std=c++11 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: g++ -std=c++11 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: g++ -std=c++11 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: g++ -std=c++11 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: g++ -std=c++11 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: g++ -std=c++11 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: H:/Code/OpenOnlineML/src/measurement/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_537c6\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_537c6\fast && 
+
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: H:/Code/OpenOnlineML/src/measurement/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_01273\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_01273\fast && 
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: H:/Code/OpenOnlineML/src/measurement/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_95a27\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_95a27\fast && 
+
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: H:/Code/OpenOnlineML/src/measurement/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_30e02\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_30e02\fast && 
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: H:/Code/OpenOnlineML/src/measurement/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_78210\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_78210\fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: H:/Code/OpenOnlineML/src/measurement/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_89bf4\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_89bf4\fast && 
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/softWare/TDM-GCC/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/softWare/TDM-GCC/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/softWare/TDM-GCC/bin/g++.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>:0:1: error: missing '(' after predicate
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/softWare/TDM-GCC/bin/g++.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+CMakeCCompilerId.c:321:64: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+ char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";
+                                                                ^
+CMakeCCompilerId.c:617:64: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+ char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";
+                                                                ^
+CMakeCCompilerId.c:618:60: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+ char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";
+                                                            ^
+CMakeCCompilerId.c:638:43: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+   "INFO" ":" "dialect_default[" C_DIALECT "]";
+                                           ^
+CMakeCCompilerId.c:646:10: error: 'argc' was not declared in this scope
+ int main(argc, argv) int argc; char *argv[];
+          ^
+CMakeCCompilerId.c:646:16: error: 'argv' was not declared in this scope
+ int main(argc, argv) int argc; char *argv[];
+                ^
+CMakeCCompilerId.c:646:20: error: expression list treated as compound expression in initializer [-fpermissive]
+ int main(argc, argv) int argc; char *argv[];
+                    ^
+CMakeCCompilerId.c:646:22: error: expected ',' or ';' before 'int'
+ int main(argc, argv) int argc; char *argv[];
+                      ^
+CMakeCCompilerId.c:646:43: error: storage size of 'argv' isn't known
+ int main(argc, argv) int argc; char *argv[];
+                                           ^
+CMakeCCompilerId.c:650:1: error: expected unqualified-id before '{' token
+ {
+ ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/softWare/TDM-GCC/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+cc1plus.exe: warning: command line option '-ftarget=arm-arm-none-eabi' is valid for Java but not for C++
+CMakeCCompilerId.c:1:0: error: bad value (cortex-m3) for -mtune= switch
+ #ifdef __cplusplus
+ ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/softWare/TDM-GCC/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/softWare/TDM-GCC/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/softWare/TDM-GCC/bin/g++.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>:0:1: error: missing '(' after predicate
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/softWare/TDM-GCC/bin/g++.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+CMakeCCompilerId.c:321:64: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+ char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";
+                                                                ^
+CMakeCCompilerId.c:617:64: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+ char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";
+                                                                ^
+CMakeCCompilerId.c:618:60: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+ char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";
+                                                            ^
+CMakeCCompilerId.c:638:43: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+   "INFO" ":" "dialect_default[" C_DIALECT "]";
+                                           ^
+CMakeCCompilerId.c:646:10: error: 'argc' was not declared in this scope
+ int main(argc, argv) int argc; char *argv[];
+          ^
+CMakeCCompilerId.c:646:16: error: 'argv' was not declared in this scope
+ int main(argc, argv) int argc; char *argv[];
+                ^
+CMakeCCompilerId.c:646:20: error: expression list treated as compound expression in initializer [-fpermissive]
+ int main(argc, argv) int argc; char *argv[];
+                    ^
+CMakeCCompilerId.c:646:22: error: expected ',' or ';' before 'int'
+ int main(argc, argv) int argc; char *argv[];
+                      ^
+CMakeCCompilerId.c:646:43: error: storage size of 'argv' isn't known
+ int main(argc, argv) int argc; char *argv[];
+                                           ^
+CMakeCCompilerId.c:650:1: error: expected unqualified-id before '{' token
+ {
+ ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/softWare/TDM-GCC/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+cc1plus.exe: warning: command line option '-ftarget=arm-arm-none-eabi' is valid for Java but not for C++
+CMakeCCompilerId.c:1:0: error: bad value (cortex-m3) for -mtune= switch
+ #ifdef __cplusplus
+ ^
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: H:/Code/OpenOnlineML/src/measurement/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_dfdc9\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_dfdc9\fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: H:/Code/OpenOnlineML/src/measurement/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_f0871\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_f0871\fast && 
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: H:/Code/OpenOnlineML/src/measurement/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_7f92f\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_7f92f\fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: H:/Code/OpenOnlineML/src/measurement/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_6bd5f\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_6bd5f\fast && 
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: H:/Code/OpenOnlineML/src/measurement/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_12411\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_12411\fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: H:/Code/OpenOnlineML/src/measurement/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_fe9f9\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_fe9f9\fast && 
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: H:/Code/OpenOnlineML/src/measurement/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_ff6aa\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_ff6aa\fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: H:/Code/OpenOnlineML/src/measurement/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_b9f62\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_b9f62\fast && 
+
+
