@@ -196,7 +196,7 @@ StreamingData::StreamingData(const string& stream_file)
 
 StreamingData::~StreamingData()
 {
-  // infile.close();
+  infile.close();
 }
 
 
